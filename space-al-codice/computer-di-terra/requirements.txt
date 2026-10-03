@@ -1,0 +1,8 @@
+# Dipendenze del computer di terra (py-v1.0)
+dash
+plotly
+pyserial
+
+# Solo su Raspberry Pi, per la modalita' radio (SPACEAL_INPUT_MODE=radio):
+# pyrf24
+# RPi.GPIO
